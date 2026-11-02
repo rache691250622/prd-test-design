@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Test Design V9"
+  short_description: "版本化 PRD 测试设计、时序图、评审及 Excel 导出"
+  default_prompt: "Use $prd-test-design-v9 to turn this PRD into a reviewed, versioned test package."
